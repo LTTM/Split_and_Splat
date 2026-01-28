@@ -1,0 +1,4 @@
+# ninja log v5
+0	13676	1742479467	/home/leo/Desktop/Leo/SEQUOIA/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-312/simple_knn.o	a734c65f214f63a5
+0	18984	1742479473	/home/leo/Desktop/Leo/SEQUOIA/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-312/ext.o	45aa5a35d122a64c
+0	47356	1742479501	/home/leo/Desktop/Leo/SEQUOIA/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-312/spatial.o	a6e330a778d45982
