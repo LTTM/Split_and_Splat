@@ -4,7 +4,7 @@
 
 [![License: GPL3](https://img.shields.io/badge/License-GPL3-yellow.svg)](https://opensource.org/license/gpl-3-0)
 
-![MultimodalStudio Overview](media/teaser3.jpg)
+![Split & Splat Overview](split_and_splat_GA.png)
 
 ## About
 
