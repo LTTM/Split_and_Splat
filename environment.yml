@@ -1,4 +1,4 @@
-name: gaussian_splatting_24_04
+name: split_and_splat
 channels:
   - pytorch
   - nvidia
