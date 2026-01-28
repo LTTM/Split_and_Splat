@@ -4,7 +4,7 @@
 
 [![License: GPL3](https://img.shields.io/badge/License-GPL3-yellow.svg)](https://opensource.org/license/gpl-3-0)
 
-![Split & Splat Overview](split_and_splat_GA.png)
+![Split & Splat Overview](./split_&_splat_GA.png)
 
 ## About
 
